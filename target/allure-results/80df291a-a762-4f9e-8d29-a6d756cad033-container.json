@@ -1,0 +1,1 @@
+{"uuid":"80df291a-a762-4f9e-8d29-a6d756cad033","name":"ui.test.RemoveJobTest","children":["1fb8cbb8-e065-4c0e-aed3-5ab3af9f91fb"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1634675944726,"stop":1634675954377}],"afters":[],"start":1634675944593,"stop":1634675958621}

@@ -1,0 +1,1 @@
+{"uuid":"24752084-d24f-46f0-84ef-fda4f1dec776","name":"ui.test.CreateJobTest","children":["b699b92c-a370-4d0e-872b-f911209a7b85"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1634576213217,"stop":1634576223433}],"afters":[],"start":1634576213112,"stop":1634576228397}
